@@ -133,6 +133,8 @@ button {
     margin-top: 40px;
 }
 
+/*P Tags*/
+
 p {
     color: rgb(0, 0, 0);
     margin-left: 140px;
@@ -146,6 +148,15 @@ p {
 
 #p8 {
     margin-left: 95px;
+}
+
+#p1,
+#p2,
+#p3,
+#p4,
+#p5,
+#p6 {
+    font-size: 20px;
 }
 
 /* Inputs */
@@ -165,3 +176,4 @@ p {
 #input6 {
     margin-left: 63px;
 }
+

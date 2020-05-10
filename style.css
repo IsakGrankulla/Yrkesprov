@@ -1,0 +1,167 @@
+body {
+    background-color: white;
+}
+
+.blue-math {
+    color: rgb(106, 106, 248);
+}
+
+h1 {
+    font-size: 105px;
+    text-align: center;
+    font-family: monospace;
+    margin-top: 15px;
+}
+
+h5 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: -55px;
+    font-family: monospace;
+    color: rgb(170, 167, 167);
+}
+
+input {
+    border: 1px solid rgb(0, 0, 0);
+    border-left: transparent;
+    border-right: transparent;
+    border-top: transparent;
+    width: 70px;
+    margin-left: 10px;
+    font-family: monospace;
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: -30px
+}
+
+.div1,
+.div3,
+.div5,
+.div7
+ {
+    display: flex;
+    margin-top: 10px;
+    background-color: rgb(243, 243, 243);
+    padding-bottom: 15px;
+}
+
+.div2,
+.div4,
+.div6,
+.div8 {
+    display: flex;
+    margin-top: -10px;
+}
+
+#big-div {
+    text-align: center;
+}
+
+#form {
+    display: inline-block;
+}
+
+.move-right {
+    margin-left: 15px;
+}
+
+.move-right2 {
+    margin-left: 31px;
+}
+
+/* End Brackets*/
+
+#end-bracket {
+    margin-left: 10px;
+}
+
+#end-bracket1 {
+    margin-left: 62px;
+}
+
+#end-bracket2 {
+    margin-left: 63px;
+}
+
+#end-bracket3 {
+    margin-left: 62px;
+}
+
+#end-bracket4 {
+    margin-left: 63px;
+}
+
+#space-h3 {
+    margin-left: 10px;
+}
+
+.equals {
+font-family: monospace;
+color: gray;
+font-size: 15px;
+margin-left: 50px;
+}
+
+.equals2 {
+    font-family: monospace;
+    color: gray;
+    font-size: 15px;
+    margin-left: 328px;
+}
+
+.equals3 {
+    font-family: monospace;
+    color: gray;
+    font-size: 15px;
+    margin-left: 230px;
+}
+
+button {
+    font-size: 4px;
+    background-color: transparent;
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    margin-left: 140px;
+    font-size: 15px;
+    font-family: monospace;
+}
+
+#p7 {
+    margin-left: 95px;
+}
+
+#p8 {
+    margin-left: 95px;
+}
+
+/* Inputs */
+
+#input1 {
+    margin-left: 62px;
+}
+
+#input2 {
+    margin-left: 63px;
+}
+
+#input3 {
+    margin-left: 62px;
+}
+
+#input6 {
+    margin-left: 63px;
+}

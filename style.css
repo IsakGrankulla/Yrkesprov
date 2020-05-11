@@ -16,7 +16,7 @@ h1 {
 h5 {
     font-size: 20px;
     text-align: center;
-    margin-top: -55px;
+    margin-top: -65px;
     font-family: monospace;
     color: rgb(170, 167, 167);
 }
@@ -40,7 +40,8 @@ h3 {
     color: rgb(0, 0, 0);
     font-size: 30px;
     margin-top: 20px;
-    margin-bottom: -30px
+    margin-bottom: -30px;
+    padding-left: 10px;
 }
 
 .div1,
@@ -85,19 +86,19 @@ h3 {
 }
 
 #end-bracket1 {
-    margin-left: 62px;
+    margin-left: 71px;
 }
 
 #end-bracket2 {
-    margin-left: 63px;
+    margin-left: 72px;
 }
 
 #end-bracket3 {
-    margin-left: 62px;
+    margin-left: 71px;
 }
 
 #end-bracket4 {
-    margin-left: 63px;
+    margin-left: 73px;
 }
 
 #space-h3 {
@@ -115,14 +116,14 @@ margin-left: 50px;
     font-family: monospace;
     color: gray;
     font-size: 15px;
-    margin-left: 328px;
+    margin-left: 355px;
 }
 
 .equals3 {
     font-family: monospace;
     color: gray;
     font-size: 15px;
-    margin-left: 230px;
+    margin-left: 255px;
 }
 
 button {
@@ -140,14 +141,17 @@ p {
     margin-left: 140px;
     font-size: 15px;
     font-family: monospace;
+    padding-right: 10px;
 }
 
 #p7 {
-    margin-left: 95px;
+    margin-left: 75px;
+    font-size: 20px;
 }
 
 #p8 {
-    margin-left: 95px;
+    margin-left: 75px;
+    font-size: 20px;
 }
 
 #p1,
